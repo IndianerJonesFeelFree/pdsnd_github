@@ -2,6 +2,7 @@
 ###Author:      Johannes Baumer
 ###Date:        15.07.2023
 ###Desciption:  This python file was used for udacity training
+###Greetings:   Thanks for all:)))))))
 
 import time
 import pandas as pd
