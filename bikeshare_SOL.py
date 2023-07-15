@@ -234,10 +234,15 @@ def main():
         city, month, day = get_filters()
 
         df = load_data(city, month, day)
+        #call for display
         display(df)
+        #call for time_stats
         time_stats(df)
+        #call for station_stats
         station_stats(df)
+        #call for trip_duration_stats
         trip_duration_stats(df)
+        #call for user_stats
         user_stats(df)
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
