@@ -1,3 +1,7 @@
+###Header:  Bikeshop - Statistic - Software
+###Author:  Johannes Baumer
+###Date:    15.07.2023
+
 import time
 import pandas as pd
 import numpy as np
