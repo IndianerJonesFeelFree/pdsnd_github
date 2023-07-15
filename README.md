@@ -15,4 +15,5 @@ bikeshare_SOL.py
 ### Credits
 https://github.com/IndianerJonesFeelFree/pdsnd_github
 
-
+### Mistake
+"Unfortunatelly i did 2x changes in the master branch. So I did two again in the documentation branch. I generated a backup branch.
