@@ -1,19 +1,23 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+15.07.2023
 
 ### Project Title
-Replace the Project Title
+Bikeshop - Statistic - Software
 
 ### Description
-Describe what your project is about and what it does
+Description and tracking of changes in the python project
 
 ### Files used
-Include the files used
+bikeshare_SOL.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/IndianerJonesFeelFree/pdsnd_github
+
+
 
 ###ATTENTION: Header area improved
 
+### Mistake
+"Unfortunatelly i did 2x changes in the master branch. So I did two again in the documentation branch. I generated a backup branch.
