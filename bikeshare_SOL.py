@@ -1,3 +1,8 @@
+###Header:      Bikeshop - Statistic - Software
+###Author:      Johannes Baumer
+###Date:        15.07.2023
+###Desciption:  This python file was used for udacity training
+
 import time
 import pandas as pd
 import numpy as np
